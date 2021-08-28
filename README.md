@@ -1,5 +1,4 @@
-#Hi folks! 👋
-
+# Hi folks! 👋
 Welcome to my profile. My name is Supratik Roy and I'm a Fullstack Engineer based out of Kolkata, West Bengal, India, specializing in Javascript and its related frameworks. I'm also techie who spends his time trying to learn new things and come up with small projects that will help me understand certain concepts better and I hope others coming accross them will benefit as well.
 
 **:wrench: Technologies and Tools**
